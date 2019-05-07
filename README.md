@@ -1,2 +1,2 @@
 # MyPortfolio
-My Portfolio Web Page
+## This is my first attempt to create a personal portfolio
